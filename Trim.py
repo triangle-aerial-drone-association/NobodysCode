@@ -12,3 +12,5 @@ drone.takeoff()
 drone.sendControlWhile(0, 80, 0, 0, 2500)
 
 drone.land()
+
+#David is sigma
